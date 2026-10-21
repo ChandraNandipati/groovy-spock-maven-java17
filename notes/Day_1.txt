@@ -1,0 +1,60 @@
+Login Page : 
+	JIRA :  EDAP-10123  - USer Story 
+	
+BA : 
+	1. If user gives valid username and password they have to allow to appication
+	2. If user gives wrong password with valid username then he should get 404 not found 
+	3. if username present and password id wrong then give invalida password
+
+sprint ceremonies : 
+		biweekly : 2 week sprint 
+		
+10 business day : 
+			8 : 
+				1 story points takes 1 day.
+				
+Refinement call : BA or PO 
+	every sprint refinement 
+		BA : EDAP-10123 he wil explai tio squad people or scrum team 
+		Squad or scrum team : 
+			1. developers 
+			2. QA 
+			3. PO 
+			4. Devops 
+			5. DB
+	Backlog 
+		EDAP-10123
+
+sprint planning : Scrum master 
+	EDAP-10123  : 
+		1. EDAP-10124 : JIRA ticket :  Development task - 4 -  assignment : Chandra Nandipati
+			developer 1 (3) : developer 2(4)  : developer 3 (5)
+		2. EDAP-10125 : JIRA ticket :  QA task - 3 - assignment : Sneha Kasina
+Sprint Start : 
+	TODO  :               In progress :
+		EDAP-10125 - 4       EDAP-10125 - 4
+		EDAP-10345 - 3
+		
+Stand up or scrum call : 
+	
+	QA test cases : 
+		1. if user doesnt give any value  what should happen 
+		2. If user gives valid username and password they have to allow to appication
+		3. If user gives wrong password with valid username then he should get 404 not found 
+		4. if username present and password id wrong then give invalida password
+		
+	BA / PO :  
+		 Test case review 
+		 
+	Automation Scripts : to write 
+	
+	Run test scripts and attach validation reports to the jira 
+	
+	BA/PO review : 
+		QA signoff 
+		BA/ PO sing off 
+		code prod move 
+		
+Vault access :
+	- cyberARk 
+	- HAshcorp 
