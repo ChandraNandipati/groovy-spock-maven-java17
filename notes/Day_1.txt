@@ -58,3 +58,9 @@ Stand up or scrum call :
 Vault access :
 	- cyberARk 
 	- HAshcorp 
+	
+command to run : 
+mvn clean test surefire-report:report-only -Denv=dev
+
+task : 
+Integrate with db get the password and give it instead of adding that hardcoing in test file> 
