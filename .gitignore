@@ -1,0 +1,52 @@
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Maven build files
+target/
+**/target/
+dependency-reduced-pom.xml
+
+# Groovy compiled files
+*.class
+*.groovy~
+*.gvy~
+*.gy~
+
+# Gradle files (if used)
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Test reports and logs
+*.log
+logs/
+test-output/
+allure-results/
+allure-report/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables and secrets
+.env
+.env.*
+*.key
+*.pem
+secrets.properties
+credentials.properties
+
+
